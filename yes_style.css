@@ -18,23 +18,6 @@ body {
 }
 
 .gif_container img {
-  width: 100%;
-  max-width: 500px;
+  width: 90%;
   height: auto;
-}
-
-.buttons {
-  margin-top: 20px;
-}
-
-.yes-button {
-  font-size: 1.5em;
-  padding: 10px 20px;
-  margin-right: 10px;
-  background-color: #4caf50;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  margin-bottom: 4px;
 }
